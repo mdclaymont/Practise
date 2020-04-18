@@ -1,0 +1,7 @@
+11:17:43.193 [main] INFO  allcommonitem.Function - The Expected Input Value *** mdrezaul0@yahoo.com *** is Successfully Set on Input Box
+11:17:43.446 [main] INFO  allcommonitem.Function - The Expected Input Value *** Tester@7453 *** is Successfully Set on Input Box
+11:25:52.741 [main] WARN  allcommonitem.Function - Expected Url ****** https://www.mercari.com ******* Found And Validation of Url Successfully Passed but Actual Url Contains expected Url current url is **** https://www.mercari.com/****
+11:26:02.010 [main] INFO  allcommonitem.Function - The Expected Input Value *** mdrezaul0@yahoo.com *** is Successfully Set on Input Box
+11:26:02.268 [main] INFO  allcommonitem.Function - The Expected Input Value *** Tester@7453 *** is Successfully Set on Input Box
+11:28:18.322 [main] WARN  allcommonitem.Function - Expected Url ****** https://www.mercari.com ******* Found And Validation of Url Successfully Passed but Actual Url Contains expected Url current url is **** https://www.mercari.com/****
+11:28:27.697 [main] INFO  allcommonitem.Function - The Expected Input Value *** mdrezaul0@yahoo.com *** is Successfully Set on Input Box
