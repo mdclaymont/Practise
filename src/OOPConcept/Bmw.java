@@ -11,6 +11,8 @@ public class Bmw extends Car {
 	{
 		System.out.println("Test==>Gps");
 		System.out.println("Test==>Gps");
+		System.out.println("Test==>Gps");
+	
 	}
 
 }
